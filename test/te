@@ -68,5 +68,16 @@ function printValue(digit) {
       }
  
       // Driver code
-      var N = "123";
-      printWord(N);
+     
+      var arr = ["3", "25", "209"];
+      for(i=0;i<arr.length;i++){
+      var num = arr[i]
+      
+  
+        printWord(num);
+        
+        
+        
+      
+      }
+      
